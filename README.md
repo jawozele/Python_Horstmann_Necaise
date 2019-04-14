@@ -1,1 +1,1 @@
-# Python_Horstmann_Necaise
+Solved Python exercises from the textbook- Python for Everyone by C. Horstmann and R. Necaise
